@@ -1,0 +1,30 @@
+{
+  "name": "drugnode",
+  "version": "1.0.0",
+  "description": "Web Scraper for DrugReport Project",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "scrape-it": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkarssli/DrugNode.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Tamir Karssli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkarssli/DrugNode/issues"
+  },
+  "homepage": "https://github.com/tkarssli/DrugNode#readme"
+}
