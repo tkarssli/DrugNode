@@ -1,0 +1,17 @@
+          Title[0]
+          Date Submitted[3]
+          Last Update[4]
+          Submitted By[5]
+          State/province[7]
+          Logo[8]
+          Color[9]
+          Shape[10]
+          Texture[11]
+          RQR[13] (Report Quality Rating)
+          Description[14]
+          SC[15] (Suspected Contents)
+          Rating[16]
+          Warning[17]
+          Tested[18]
+          Consumed[19]
+          UR[20] (User Report)
